@@ -1,0 +1,7 @@
+[[layers]]
+name = "news-processing"
+version = "0.0.1"
+packages = [
+    'bs4',
+    'elasticsearch'
+]
